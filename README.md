@@ -80,3 +80,5 @@ int main(){
 
 ##參考資料
 https://dotblogs.com.tw/v6610688/2013/10/25/image_process_intro_opencv
+http://ccw1986.blogspot.tw/2013/09/learningopencv.html
+
